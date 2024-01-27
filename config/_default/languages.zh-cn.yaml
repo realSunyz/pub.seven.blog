@@ -1,0 +1,14 @@
+languageCode: zh-cn
+languageDirection: ltr
+languageName: Chinese (Simplified)
+contentDir: content/zh-cn
+hasCJKLanguage: true
+
+title: Seven 的日记本
+
+params:
+  sidebar:
+    subtitle: 下一次相遇可能在任何地方，但我们始终灿烂如星海。
+  article:
+    license:
+      default: 使用 CC BY-NC-SA 4.0 协议授权

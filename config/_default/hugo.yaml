@@ -1,10 +1,8 @@
 baseURL: https://sunyz.net/
-languageCode: zh-cn
-title: Seven's Blog
 theme: hugo-theme-stack
 
 defaultContentLanguage: "zh-cn"
-hasCJKLanguage: true
+defaultContentLanguageInSubdir: true
 
 services:
   disqus:
