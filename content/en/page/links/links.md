@@ -12,7 +12,7 @@ links:
     description: An adorable and charming catgirl.
     website: https://nyac.at
   - title: 🐺 QYL27
-    description: Half a teenage girl, travelling around the world on Bitstream.
+    description: A young girl in lights and shadows, travelling around the world on the bitstream.
     website: https://www.qy.al
   - title: 🐱 JackieCat
     description: 
