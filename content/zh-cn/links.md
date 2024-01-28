@@ -27,4 +27,4 @@ links:
 comments: false
 ---
 
-请前往“[串个门](maintain/)”页面以添加新链接或维护现有信息。
+请前往“[串个门](/zh-cn/keep_in_touch)”页面以添加新链接或维护现有信息。
