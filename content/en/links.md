@@ -26,3 +26,5 @@ links:
 
 comments: false
 ---
+
+Please visit "[Keep in Touch](maintain/)" page to add new links or modify existing datas.
