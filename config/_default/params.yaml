@@ -18,7 +18,7 @@ sidebar:
     src: https://cdn.sunyz.net/avatar@512x512.png
 
 article:
-  math: true
+  math: false
   readingTime: true
   license:
     enabled: true
