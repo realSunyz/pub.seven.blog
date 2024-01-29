@@ -15,7 +15,7 @@ links:
     description: “二分之一少女，乘着比特流环游世界。”
     website: https://www.qy.al
   - title: 🐱 JackieCat
-    description:
+    description: 是一只猫。
     website: https://jackiecat.top
   - title: 🎨 千畔
     description: “一只躺在键盘上的猫猫。”

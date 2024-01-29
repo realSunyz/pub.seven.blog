@@ -9,4 +9,4 @@ menu:
       icon: user
 ---
 
-## 🏗️ Just a minute..
+## 🏗️ Just a minute
