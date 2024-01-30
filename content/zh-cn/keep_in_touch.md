@@ -8,9 +8,9 @@ math: true
 
 1. 您（与您的网站）不得侵犯他人版权。
 2. 您的网站多数时候都能正常访问。
-3. 不接受 **免费** 域名后缀$^*$ 或 **non-ASCII** 域名后缀。
+3. 不接受 **免费** 域名后缀[^1] 或 **non-ASCII** 域名后缀。
 
-$^*$ 特指于 freenom.com 注册的域名, 与/或 不在 [此列表](https://publicsuffix.org/list/public_suffix_list.dat) 中的子域名。
+[^1]: 特指于 freenom.com 注册的域名, 与/或 不在 [此列表](https://publicsuffix.org/list/public_suffix_list.dat) 中的子域名。
 
 ### 我的信息
 
