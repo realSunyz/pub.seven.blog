@@ -8,9 +8,9 @@ math: true
 
 1. You (and your website) must **NOT** infringe on the copyrights of others.
 2. Your website is operational most of the time.
-3. No **FREE** domain suffixes[^1] nor **non-ASCII** domain suffixes acceptable.
+3. No **FREE** domain suffixes[^*] nor **non-ASCII** domain suffixes acceptable.
 
-[^1]: domains registered on freenom.com, and/or subdomains excluded from the [list](https://publicsuffix.org/list/public_suffix_list.dat).
+[^*]: domains registered on freenom.com, and/or subdomains excluded from the [list](https://publicsuffix.org/list/public_suffix_list.dat).
 
 ### My datas
 
