@@ -24,6 +24,9 @@ links:
   - title: 👺 温丝洛
     description: 是天狗妖怪！
     website: https://winsloweric.com
+  - title: 🐦 huige233
+    description: "\"黑暗无期，守望为明。\""
+    website: https://huige233.com
 
 comments: false
 ---

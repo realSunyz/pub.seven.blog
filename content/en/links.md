@@ -24,6 +24,9 @@ links:
   - title: 👺 Winslow S.E.M.
     description: is a Tengu Youkai!
     website: https://winsloweric.com
+  - title: 🐦 huige233
+    description: "\"Everyone can be the light in the darkness.\""
+    website: https://huige233.com
 
 comments: false
 ---
